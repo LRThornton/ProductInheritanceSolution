@@ -35,7 +35,7 @@ namespace ProductInheritance {
                     continue;
                 }
             }
-            Console.WriteLine($"Total sales order is {salesOrderTotal:c}");
+            Console.WriteLine($"Total sales order is {salesOrderTotal:c}"); 
         }
     }
 }
